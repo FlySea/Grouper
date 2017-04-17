@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\color\\vpi__light_theme.xml"
+    }
+]

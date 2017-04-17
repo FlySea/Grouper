@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="libui_background">#f4f4f4</color>
+    <color name="libui_black">#000000</color>
+    <color name="libui_blue">#0977c4</color>
+    <color name="libui_calendar_grid_bg">#FFFFFFFF</color>
+    <color name="libui_calendar_grid_border">#FFC6C6C6</color>
+    <color name="libui_dark_gray">#444444</color>
+    <color name="libui_devider">#e5e5e5</color>
+    <color name="libui_half_transparent">#88000000</color>
+    <color name="libui_hint_txt">#d7d7d7</color>
+    <color name="libui_item_text">#adadad</color>
+    <color name="libui_keyboard_orange">#DE9226</color>
+    <color name="libui_light_golden">#de9226</color>
+    <color name="libui_light_gray">#adadad</color>
+    <color name="libui_loading_bg">#ececec</color>
+    <color name="libui_red">#cc0000</color>
+    <color name="libui_text_dark">#444444</color>
+    <color name="libui_text_light">#adadad</color>
+    <color name="libui_text_middle">#929292</color>
+    <color name="libui_text_under_background">#777c81</color>
+    <color name="libui_title_bg">#ffffff</color>
+    <color name="libui_title_text">#515559</color>
+    <color name="libui_transparent">#00000000</color>
+    <color name="libui_unclickable_button">#d3d3d3</color>
+    <color name="libui_white">#ffffff</color>
+    <color name="libui_yellow">#fdcd3a</color>
+    <declare-styleable name="AutoScrollTextView"><attr format="float" name="scrolltxt_textSize"/><attr format="reference|color" name="scrolltxt_textColor"/></declare-styleable>
+    <declare-styleable name="ChippyLayout"><attr format="integer" name="chippy_zoomDuration"/><attr format="boolean" name="chippy_zoom"/><attr format="float" name="chippy_zoomScale"/><attr format="enum" name="chippy_type">
+            <enum name="scale" value="0"/>
+            <enum name="shake" value="1"/>
+            <enum name="card" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="LineView"><attr format="reference|dimension" name="titleleftmargin"/><attr format="reference|dimension" name="titletopmargin"/><attr format="reference|string" name="titletext"/><attr format="reference|dimension" name="titlesize"/><attr format="reference|color" name="titletextcolor"/><attr format="reference|dimension" name="bottomtitlesize"/><attr format="reference|color" name="bottomtextcolor"/><attr format="reference|dimension" name="bottomtexttoside"/><attr format="reference|dimension" name="lefttitlesize"/><attr format="reference|color" name="lefttextcolor"/><attr format="reference|dimension" name="lefttexttoside"/><attr format="reference|color" name="horlinecolor"/><attr format="reference|color" name="verlinecolor"/><attr format="reference|color" name="linecolor"/><attr format="reference|dimension" name="backlinewidth"/><attr format="reference|dimension" name="linewidth"/><attr format="reference|integer" name="horLineSize"/><attr format="reference|integer" name="verLineSize"/><attr format="reference" name="popstyle">
+            <enum name="showall" value="1"/>
+            <enum name="showselect" value="2"/>
+            <enum name="shownone" value="3"/>
+        </attr></declare-styleable>
+    <declare-styleable name="OrderView"><attr format="reference|string" name="order_view_text"/><attr format="reference|color" name="order_view_default_color"/><attr format="reference|color" name="order_view_select_color"/><attr format="reference" name="order_up_img"/><attr format="reference" name="order_down_img"/><attr format="reference" name="order_img_default"/></declare-styleable>
+    <declare-styleable name="RippleLayout"><attr format="integer" name="ripple_alpha"/><attr format="integer" name="ripple_framerate"/><attr format="integer" name="ripple_rippleDuration"/><attr format="integer" name="ripple_zoomDuration"/><attr format="color" name="ripple_color"/><attr format="boolean" name="ripple_centered"/><attr format="enum" name="ripple_type">
+            <enum name="simpleRipple" value="0"/>
+            <enum name="doubleRipple" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr><attr format="dimension" name="ripple_ripplePadding"/><attr format="boolean" name="ripple_zoom"/><attr format="float" name="ripple_zoomScale"/></declare-styleable>
+    <declare-styleable name="StepView"><attr format="reference|dimension" name="stepViewPaddingTop"/><attr format="reference|dimension" name="stepViewPaddingLeft"/><attr format="reference|dimension" name="stepViewPaddingRight"/><attr format="reference|dimension" name="stepViewPaddingBottom"/><attr format="reference|color" name="stepBigCirColor"/><attr format="reference|dimension" name="stepBigCirR"/><attr format="reference|color" name="stepSmallCirColor"/><attr format="reference|dimension" name="stepSmallCirR"/><attr format="reference|dimension" name="stepLineWidth"/><attr format="reference|color" name="stepLineColor"/><attr format="reference|dimension" name="stepLineLength"/><attr format="reference|dimension" name="stepMainTextSize"/><attr format="reference|color" name="stepMainTextColor"/><attr format="reference|dimension" name="stepTipTextSize"/><attr format="reference|color" name="stepTipTextColor"/><attr format="reference|dimension" name="stepCir2Text"/><attr format="reference|dimension" name="stepText2Text"/></declare-styleable>
+    <declare-styleable name="WheelView"><attr format="float" name="wv_text_size_normal"/><attr format="color" name="wv_text_color_normal"/><attr format="color" name="wv_text_color_selected"/><attr format="color" name="wv_line_color"/></declare-styleable>
+    <declare-styleable name="XHTabView"><attr format="reference|string" name="tab1_text"/><attr format="reference|string" name="tab2_text"/><attr format="reference|color" name="select_color"/><attr format="reference|color" name="unselect_color"/></declare-styleable>
+    <dimen name="libui_0dp">0dp</dimen>
+    <dimen name="libui_Loading_dialog_height">100dp</dimen>
+    <dimen name="libui_Loading_dialog_margin">5dp</dimen>
+    <dimen name="libui_Loading_dialog_padding">20dp</dimen>
+    <dimen name="libui_Loading_dialog_progressbar_sides">40dp</dimen>
+    <dimen name="libui_Loading_dialog_width">135dp</dimen>
+    <dimen name="libui_dialog_content_height">85dp</dimen>
+    <dimen name="libui_dialog_margin_window">15dp</dimen>
+    <dimen name="libui_dialog_padding">7dp</dimen>
+    <dimen name="libui_dialog_title_height">40dp</dimen>
+    <dimen name="libui_font_20pt_7sp">7sp</dimen>
+    <dimen name="libui_font_20px">10dp</dimen>
+    <dimen name="libui_font_22px">11dp</dimen>
+    <dimen name="libui_font_24px">12dp</dimen>
+    <dimen name="libui_font_26px">13dp</dimen>
+    <dimen name="libui_font_28px">14dp</dimen>
+    <dimen name="libui_font_30px">15dp</dimen>
+    <dimen name="libui_font_32px">16dp</dimen>
+    <dimen name="libui_font_34px">17dp</dimen>
+    <dimen name="libui_font_35pt_12sp">12sp</dimen>
+    <dimen name="libui_font_36px">18dp</dimen>
+    <dimen name="libui_font_40pt_14sp">14sp</dimen>
+    <dimen name="libui_font_50pt_16sp">16sp</dimen>
+    <dimen name="libui_font_55pt_18sp">18sp</dimen>
+    <dimen name="libui_font_56px">28dp</dimen>
+    <dimen name="libui_font_60pt_20sp">20sp</dimen>
+    <dimen name="libui_titleBar_divider">1px</dimen>
+    <dimen name="libui_titleBar_height">48dp</dimen>
+    <dimen name="libui_titleBar_icon_height">25dp</dimen>
+    <dimen name="libui_titleBar_long_margin">10dp</dimen>
+    <dimen name="libui_titleBar_margin">5dp</dimen>
+    <dimen name="libui_titleBar_padding">15dp</dimen>
+    <dimen name="libui_titleBar_search_height">30dp</dimen>
+    <dimen name="libui_titleBar_title_max">180dp</dimen>
+    <dimen name="libui_titleBar_to_screen">12dp</dimen>
+    <dimen name="libui_titleBar_unreadCount_padding">2dp</dimen>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="libui_app_name">TitleBar</string>
+    <string name="libui_award_empty">暂无活动奖励记录</string>
+    <string name="libui_bianxian_empty">暂无变现产品</string>
+    <string name="libui_cash_histories_empty">暂无变现记录</string>
+    <string name="libui_checknet_reload">请检查您的网络重新加载吧</string>
+    <string name="libui_college_info_empty">暂无相关信息,敬请期待</string>
+    <string name="libui_commission_empty">您还没有佣金</string>
+    <string name="libui_commission_empty_tips">马上去分享产品赚取佣金吧</string>
+    <string name="libui_data_empty">您还没有相关产品</string>
+    <string name="libui_data_empty_msg">暂无相关数据</string>
+    <string name="libui_data_empty_tips">请重新加载或稍后重试</string>
+    <string name="libui_default_tab1_text">已注册用户</string>
+    <string name="libui_default_tab2_text">未注册用户</string>
+    <string name="libui_find_procuct">可以去看看有哪些理财产品</string>
+    <string name="libui_gift_empty">您还没有优惠券</string>
+    <string name="libui_hwj_project_empty">暂无项目</string>
+    <string name="libui_loading">正在加载...</string>
+    <string name="libui_message_empty">亲,您还没有消息</string>
+    <string name="libui_net_error">网络请求失败</string>
+    <string name="libui_order_empty">您还没有相关订单</string>
+    <string name="libui_order_empty_tips">可以去看看有哪些理财产品</string>
+    <string name="libui_orderempty_error">您还没有相关的订单</string>
+    <string name="libui_product_empty">产品更新中,敬请期待</string>
+    <string name="libui_reload_retry">请重新加载或稍后重试</string>
+    <string name="libui_request_error">数据请求失败</string>
+    <string name="libui_reserve_empty">您还没有预约</string>
+    <string name="libui_reserve_empty_tips">可以去看看有哪些项目</string>
+    <string name="libui_saledata_empty">您还没有销售记录</string>
+    <string name="libui_saledata_empty_tips">可以去看看有哪些理财产品</string>
+    <string name="libui_search_comm_empty">没有搜索到相关佣金</string>
+    <string name="libui_search_order_empty">没有搜索到相关订单</string>
+    <string name="libui_sxb_deal_empty">暂无收益</string>
+    <string name="libui_sxb_withdraw_cash_empty">暂无提现记录</string>
+    <string name="libui_user_empty">没有搜索到相关用户</string>
+    <string name="libui_wealth_empty">您还没有购买任何产品</string>
+    <string name="libui_wealth_empty_tips">可以去看看有哪些理财产品</string>
+    <string name="select_date">选择日期</string>
+    <string name="text_tips">请输入文字</string>
+    <string name="wv_confirm">确认</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CalendarCard">
+        
+    </style>
+    <style name="CalendarCard.Cell">
+        <item name="android:background">@drawable/libui_calendar_card_item_bg</item>
+        <item name="android:layout_marginLeft">1dp</item>
+        <item name="android:layout_marginTop">1dp</item>
+    </style>
+    <style name="CalendarCard.Day">
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="CalendarCard.Days">
+        <item name="android:padding">0dp</item>
+    </style>
+    <style name="CalendarCard.Grid">
+        <item name="android:background">@drawable/libui_calendar_card_grid_bg</item>
+        <item name="android:paddingRight">1dp</item>
+        <item name="android:paddingBottom">1dp</item>
+    </style>
+    <style name="CalendarCard.Root">
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="CalendarCard.Title">
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="dialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- 除去title -->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@color/libui_transparent</item>
+        <!-- 除去背景色 -->
+    </style>
+    <style name="keyboard_anim_style">
+        <!-- 指定显示的动画xml -->
+        <item name="android:windowEnterAnimation">@anim/keyboardshow_anim</item>
+        <!-- 指定消失的动画xml -->
+        <item name="android:windowExitAnimation">@anim/keyboardhidden_anim</item>
+    </style>
+</resources>

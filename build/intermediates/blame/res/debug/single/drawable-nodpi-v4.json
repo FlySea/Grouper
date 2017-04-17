@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\refresh_succeed.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-nodpi\\refresh_succeed.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\refresh_failed.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-nodpi\\refresh_failed.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\load_succeed.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-nodpi\\load_succeed.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\load_failed.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-nodpi\\load_failed.png"
+    }
+]

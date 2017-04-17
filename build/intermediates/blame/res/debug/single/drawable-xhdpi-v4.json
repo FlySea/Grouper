@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_06.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\loading_06.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_03.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\loading_03.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_08.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\loading_08.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_05.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\loading_05.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_01.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\loading_01.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_07.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\loading_07.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_04.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\loading_04.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_02.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\loading_02.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+    }
+]

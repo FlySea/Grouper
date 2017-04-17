@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/libui_dialogview_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@color/libui_half_transparent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/libui_dialog_margin_window"
+        android:layout_marginRight="@dimen/libui_dialog_margin_window"
+        android:background="@drawable/libui_dialog_bg"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/libui_dialog_padding" >
+
+        <TextView
+            android:id="@+id/libui_dialog_title"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/libui_dialog_title_height"
+            android:gravity="center"
+            android:textColor="@color/libui_text_middle"
+            android:textSize="@dimen/libui_font_55pt_18sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="@color/libui_devider" />
+
+        <TextView
+            android:id="@+id/libui_dialog_content"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/libui_dialog_content_height"
+            android:layout_marginLeft="@dimen/libui_dialog_margin_window"
+            android:layout_marginRight="@dimen/libui_dialog_margin_window"
+            android:layout_marginTop="@dimen/libui_dialog_margin_window"
+            android:background="@null"
+            android:gravity="top"
+            android:lineSpacingMultiplier="1.5"
+            android:maxLines="2"
+            android:textColor="@color/libui_text_middle"
+            android:textSize="@dimen/libui_font_50pt_16sp" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/libui_dialog_padding"
+            android:paddingRight="@dimen/libui_dialog_padding" >
+
+            <Button
+                android:id="@+id/libui_dialog_confirm"
+                android:layout_width="@dimen/libui_0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/libui_dialog_red_bg"
+                android:singleLine="true"
+                android:text="@string/confirm"
+                android:textColor="@color/libui_white"
+                android:textSize="@dimen/libui_font_55pt_18sp" />
+
+            <Button
+                android:id="@+id/libui_dialog_cancel"
+                android:layout_width="@dimen/libui_0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/libui_dialog_margin_window"
+                android:layout_weight="1"
+                android:background="@drawable/libui_dialog_white_bg"
+                android:singleLine="true"
+                android:text="@string/cancel"
+                android:textColor="@color/libui_item_text"
+                android:textSize="@dimen/libui_font_55pt_18sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

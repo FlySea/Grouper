@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\anim\\keyboardshow_anim.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\anim\\keyboardshow_anim.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\anim\\refresh_rotating.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\anim\\refresh_rotating.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\anim\\keyboardhidden_anim.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\anim\\keyboardhidden_anim.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\anim\\refresh_reverse_anim.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\anim\\refresh_reverse_anim.xml"
+    }
+]

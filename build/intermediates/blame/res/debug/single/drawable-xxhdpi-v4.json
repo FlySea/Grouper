@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_lock_drag_direction_green_up.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_lock_drag_direction_green_up.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_dialog_bg.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_xhlogo.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_xhlogo.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_share.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_share.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\loading.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_has_message1.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_has_message1.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_empty_commission.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_empty_commission.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_tab_left_select.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_tab_left_select.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_has_chat_new.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_has_chat_new.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_gray_del_down.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_gray_del_down.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_05.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\loading_05.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_lock_point_area_green_holo.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_lock_point_area_green_holo.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_net_error_image.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_net_error_image.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_bianxian_empty_image.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_bianxian_empty_image.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_back.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_back.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_no_message1.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_no_message1.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_clear_edit_text.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_clear_edit_text.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_dialog_white_bg.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_dialog_white_bg.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_refresh.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_refresh.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_tab_left_default.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_tab_left_default.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_bg.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\loading_bg.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_show_window_right.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_show_window_right.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_one.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_one.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_request_error_image.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_request_error_image.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_show_window.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_show_window.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_popup_red.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_popup_red.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_gray_enter.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_gray_enter.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_shift_down.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_shift_down.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_gray_del.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_gray_del.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_one_down.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_one_down.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_ok.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_ok.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_empty_product.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_empty_product.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_show_window_left.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_show_window_left.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_empty_order.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_empty_order.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_customer_service.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_customer_service.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_order_down.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_order_down.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_07.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\loading_07.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_num_downdel.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_num_downdel.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_order_default.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_order_default.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_01.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\loading_01.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_04.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\loading_04.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_empty_image.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_empty_image.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_popup_green.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_popup_green.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_go_find.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_go_find.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_orderempty_error_image.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_orderempty_error_image.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_num_del.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_num_del.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_reload_button.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_reload_button.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrow_up.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_num_down.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_num_down.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_empty_gift.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_empty_gift.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_dialog_red_bg.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_dialog_red_bg.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_empty_user.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_empty_user.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_08.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\loading_08.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_lock_touched_holo.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_lock_touched_holo.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_has_message.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_has_message.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_02.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\loading_02.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_popup_blue.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_popup_blue.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_order_up.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_order_up.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_tab_right_select.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_tab_right_select.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_loadingview_loading.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_loadingview_loading.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_point_area_red_holo.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_point_area_red_holo.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_no_message.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_no_message.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_lock_point_area_default_holo.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_lock_point_area_default_holo.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_06.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\loading_06.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_03.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\loading_03.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_search.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_search.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_bg.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_bg.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_lock_default_holo.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_lock_default_holo.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_shift_normal.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_shift_normal.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_abc_down.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_abc_down.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_num.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_num.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_abc_up.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_abc_up.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cell_delete.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\cell_delete.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_bg_edittext.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_bg_edittext.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_tab_right_default.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_tab_right_default.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_empty_message.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_empty_message.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_title_unreaded_count_bg.9.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_title_unreaded_count_bg.9.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\keyboard_white_enter.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\keyboard_white_enter.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrow_down.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\drawable-xxhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\libui_lock_drag_direction_red_up.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable-xxhdpi-v4\\libui_lock_drag_direction_red_up.png"
+    }
+]

@@ -1,0 +1,29 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    lintOptions {
+        abortOnError false
+    }
+
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 18
+    }
+
+    repositories {
+        flatDir {
+            dirs project(':library_ui').file('libs')
+            dirs 'libs'
+        }
+    }
+}
+
+dependencies {
+    compile project(':library_base')
+    compile project(':library_ui')
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.google.code.gson:gson:2.2.4'
+}

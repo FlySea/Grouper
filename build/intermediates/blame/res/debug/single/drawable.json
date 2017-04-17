@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\libui_border_loading.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable\\libui_border_loading.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_viewpagerindicator\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\libui_calendar_card_item_bg.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable\\libui_calendar_card_item_bg.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\libui_search_edit_bg_shape.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable\\libui_search_edit_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\libui_progress_bar_drawable.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable\\libui_progress_bar_drawable.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.png",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable\\wheel_val.png"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\libui_errorview_bg.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable\\libui_errorview_bg.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\drawable\\libui_calendar_card_grid_bg.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\drawable\\libui_calendar_card_grid_bg.xml"
+    }
+]

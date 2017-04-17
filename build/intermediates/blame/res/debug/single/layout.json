@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_titlebar.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_titlebar.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_dialog.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_dialog.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_loadingview.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_loadingview.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_calendar_card_view.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_calendar_card_view.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_calendar_card_row.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_calendar_card_row.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_loadingdialog.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_loadingdialog.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\list_null_view.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\layout\\list_null_view.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_xhtab_view_layout.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_xhtab_view_layout.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_banner_view_layout.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_banner_view_layout.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_select_date_layout.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_select_date_layout.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_emptyview_full_screen.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_emptyview_full_screen.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_calendar_card_cell.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_calendar_card_cell.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_emptyview.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_emptyview.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_order_view.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_order_view.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\base_refresh_fragment.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\src\\main\\res\\layout\\base_refresh_fragment.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_calendar_card_item.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_calendar_card_item.xml"
+    },
+    {
+        "merged": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\res\\merged\\debug\\layout\\libui_errorview.xml",
+        "source": "E:\\StuidoProj\\branches-studio\\library_basic\\build\\intermediates\\exploded-aar\\branches-studio\\library_ui\\unspecified\\res\\layout\\libui_errorview.xml"
+    }
+]

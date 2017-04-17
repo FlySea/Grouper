@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="app_bg">#ebebeb</color>
+    <color name="line_bg">#CCCCCC</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="text_default">#323232</color>
+    <color name="text_select">#339933</color>
+    <color name="text_unselect">#888888</color>
+    <color name="color_gray">#999999</color>
+    <color name="color_deep_gray">#666666</color>
+    <color name="btn_color_deep">#339033</color>
+    <color name="btn_color_light">#339933</color>
+    <color name="item_bg">#f6f6f6</color>
+    <color name="title_bg_start">#339533</color>
+    <color name="title_bg_end">#339933</color>
+    
+    <color name="hint_color">#CCCCCC</color>
+
+
+</resources>

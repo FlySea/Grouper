@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_nodata_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/libui_background"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="30dp"
+    android:paddingTop="17dp" >
+
+    <ImageView
+        android:id="@+id/libui_emptyview_iv"
+        android:layout_width="106dp"
+        android:layout_height="106dp"
+        android:background="@drawable/libui_empty_image"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/libui_emptyview_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:textColor="@color/libui_text_dark"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/libui_emptyview_tips_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textColor="@color/libui_text_middle"
+        android:textSize="14dp" />
+
+    <Button
+        android:id="@+id/libui_emptyview_go_find"
+        android:layout_width="96dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/libui_go_find"
+        android:textColor="@color/libui_text_middle"
+        android:textSize="16dp"
+        android:visibility="gone" />
+
+</LinearLayout>

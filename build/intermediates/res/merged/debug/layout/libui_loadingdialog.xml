@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/libui_Loading_dialog_width"
+    android:layout_height="@dimen/libui_Loading_dialog_height"
+    android:layout_gravity="center"
+    android:background="@drawable/loading_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/libui_Loading_dialog_padding" >
+        
+    <ImageView
+        android:contentDescription="@string/libui_loading"  
+        android:id="@+id/libui_loading_img"  
+        android:layout_width="@dimen/libui_Loading_dialog_progressbar_sides"  
+        android:layout_height="@dimen/libui_Loading_dialog_progressbar_sides"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/libui_Loading_dialog_margin"  
+        android:src="@drawable/loading"  
+        android:scaleType="center">  
+    </ImageView>      
+
+</LinearLayout>
